@@ -5,7 +5,8 @@ Name: Calvin Widholm
 Problem: <This program calculates basic arithmetic problems using user input numbers.>
 
 Certification of Authenticity:
-<This is my own work, but I did discuss what a file is and how to test the code I write while I was out due to Covid>
+<This is my own work, but I did discuss what a file is and how to test the code I write
+while I was out due to Covid protocol>
 I certify that this assignment is entirely my own work.
 I certify that this assignment is my own work, but I discussed it with: <Brett Widholm>
 """
