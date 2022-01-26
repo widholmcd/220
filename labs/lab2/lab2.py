@@ -24,13 +24,13 @@ def means():
     rms_fraction = rms_numerator / n
     rms_average = (rms_fraction) ** .5
     round_rms_average = round(rms_average, 3)
-    print("your rounded Root-Mean-Square is: ", round_rms_average)
+    print("Your rounded Root-Mean-Square is: ", round_rms_average)
 
     #looking at Harmonic Mean
     h_mean_denom = sum(list_harmonic)
     h_mean = n / h_mean_denom
     round_h_mean = round(h_mean, 3)
-    print("your rounded Harmonic Mean is: ", round_h_mean)
+    print("Your rounded Harmonic Mean is: ", round_h_mean)
 
     #looking at Geometric Mean
     g_mean_inside = 1
