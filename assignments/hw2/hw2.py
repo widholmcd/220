@@ -7,7 +7,7 @@ Problem: Doing various arithmetic problems or using math library
 Certification of Authenticity: I certify this is all my own work
 <include one of the following>
 I certify that this assignment is entirely my own work.
-I certify that this assignment is my own work, but I discussed it with: <Brett Widholm>
+I certify that this assignment is my own work, but I discussed it with: <Brett Widholm>- I certify
 """
 import math
 
