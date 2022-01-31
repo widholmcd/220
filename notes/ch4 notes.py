@@ -1,0 +1,10 @@
+import graphics
+my_point = graphics.Point(50,70)
+print(type(my_point))
+point_a = graphics.Point(70,90)
+win = graphics.GraphWin("hi", 700, 700)
+middle = graphics.Point(350,350)
+middle.draw(win)
+my_circle = graphics.Circle(middle, 40)
+my_circle.draw(win)
+input()
