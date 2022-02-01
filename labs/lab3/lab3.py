@@ -1,6 +1,7 @@
 "Calvin Widholm"
 "lab3.py"
-"Problem: Calculate total vehicles on all roads, average vehicles per road, and average vehicles on each road"
+"Problem: Calculate total vehicles on all roads, average vehicles per road, and average
+"vehicles on each road"
 "I certify this is my own work and I discussed with nobody- Calvin Widholm"
 
 def traffic():
