@@ -61,7 +61,7 @@ def Vigenere():
     encrypted_text = Text(Point(350, 375), final_message)
     encrypted_text.draw(win)
 
-    closing_text = Text(Point(350, 650), "Click once to close window")
+    closing_text = Text(Point(350, 650), "Click Anywhere to Close Window")
     closing_text.draw(win)
 
     win.getMouse()
