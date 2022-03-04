@@ -8,6 +8,7 @@ def encode(message: str, key: int):
         encrypted_message = encrypted_message + new_char
     return encrypted_message
 
+
 def encode_better(message: str, key: str):
     length_message = len(message)
     length_key = len(key)
