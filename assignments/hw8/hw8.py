@@ -43,7 +43,6 @@ def sum_of_squares(nums: list[str]):
         split_string_list.append(split_string)
     for j in split_string_list:
         to_numbers(j)
-        print(j)
         square_each(j)
         total = sum_list(j)
         output_list.append(total)
