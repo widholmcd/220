@@ -1,8 +1,12 @@
-"Calvin Widholm"
-"lab3.py"
-"Problem: Calculate total vehicles on all roads, average vehicles per road, and average
-"vehicles on each road"
-"I certify this is my own work and I discussed with nobody- Calvin Widholm"
+"""
+Name: Calvin Widholm
+lab3.py
+
+Problem: Calculating total vehicles on all roads, average vehicles per road, and average vehichles on each road
+
+Certification of Authenticity: I certify this is all my own work
+I certify that this assignment is entirely my own work.- I ceritfy- CW
+"""
 
 def traffic():
     num_roads = eval(input("How many roads were surveyed?"))
@@ -23,4 +27,3 @@ def traffic():
     avg_per_road = total_cars / num_roads
     round_avg_per_road = round(avg_per_road, 2)
     print("Average number of vehicles per road:", round_avg_per_road)
-
